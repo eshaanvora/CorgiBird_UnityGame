@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fbede996d00f44fa9dac52fe8c62b8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EffectPrefab: {instanceID: 0}
+  - CorgiSpriteRenderer: {instanceID: 0}
+  - SpriteTools: {instanceID: 0}
+  - NormalSprite: {fileID: 21300000, guid: 7d702e59244dd47e7a5706b6c9c1951d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
