@@ -1,6 +1,6 @@
-# CorgiBird Game
+# CorgiBird
 
-This repo contains program files used to create the CorgiBird game, a spinoff from the popular mobile game FlappyBird
+This repo contains program files used to create the CorgiBird game, a spinoff from the popular mobile game "FlappyBird"
 
 The game was created using the Unity Game Engine
 
